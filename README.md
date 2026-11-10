@@ -1,7 +1,7 @@
-# DSA 2050 Week 1 — Retail Analysis
+# DSA2050 Week 1 — Retail Analysis
 
-**Student name:** [Add your full name]
-**Student ID:** [Add your student ID]
+**Student name:** Tamara Mwakisha
+**Student ID:** - 660146
 
 ## Project objective
 Use a small retail transaction dataset to frame a business question, summarize sales with three descriptive KPIs, visualize two sales patterns, and provide a reproducible, decision-oriented first look.
