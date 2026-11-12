@@ -1,6 +1,6 @@
 # DSA2050 Week 1 — Retail Analysis
 
-**Student name:** Tamara Mwakisha
+**Student name:** Tamara Mwakisha/n
 **Student ID:** - 660146
 
 ## Project objective
