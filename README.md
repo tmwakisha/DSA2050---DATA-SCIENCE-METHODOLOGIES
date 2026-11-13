@@ -3,7 +3,7 @@ Student Name: Tamara Mwakisha
 Student ID: 660146
 
 ## Project objective
-Use a small retail transaction dataset to frame a business question, summarize sales with three descriptive KPIs, visualize two sales patterns, and provide a reproducible, decision-oriented first look.
+Utilize a tiny dataset of retail transactions to formulate a business question, offer a repeatable, decision-focused initial look, illustrate two sales trends, and summarize sales using three descriptive KPIs.
 
 ## Files
 - `retail.csv` — source dataset
